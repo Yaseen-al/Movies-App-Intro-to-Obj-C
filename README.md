@@ -1,5 +1,6 @@
 # Movies-App-Intro-to-Obj-C
-This is an introduction application to Objective-C that uses of the following elements:
+This is an introduction application to Objective-C that uses the following elements:
+- AutoLayout and programmatic views.
 - UITableView, UItableViewDelegates and UItableViewDataSource.
 - UISearchBar and UISearchBarDelegates.
 - The Usage of movie Model and passing movies into the tableView and detailView.
